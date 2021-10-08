@@ -1,0 +1,41 @@
+.homePage {
+    width: 1300px;
+    margin: auto;
+}
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    width: 100%;
+}
+.MuiFormControl-root {
+    width: 100%;
+}
+.MuiButton-containedPrimary {
+    background-color: #1976d2 !important;
+}
+.taskItem {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.MuiTableCell-head {
+    background-color: #1976d2 !important;
+    color: #fff;
+}
+.btnDel,
+.btnCancel {
+    background-color: #f33a34 !important;
+    color: #fff !important;
+}
+.btnEdit {
+    background-color: #1da727 !important;
+    color: #fff !important;
+    margin-right: 10px !important;
+}
+.MuiTableCell-head {
+    color: #fff !important;
+}
+.ant-picker-clear {
+    display: none;
+}
+.Toastify__toast-container--top-right {
+    top: 100px;
+}
